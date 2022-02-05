@@ -26,23 +26,243 @@ There will be homework assignments every week or two, and they will be the basis
 {{< anchor "calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Why Study Computability? |  |
-| 2-3 | Key Computability Concepts |  |
-| 4 | The Language of Arithmetic |  |
-| 5 | Church-Turing Thesis |  |
-| 6 | Nonstandard Models of Arithmetic |  |
-| 7 | Gödel Numbering | Homework 1 due |
-| 8 | Robinson's Arithmetic | Homework 2 due |
-| 9-10 | Coding Proofs |  |
-| 11-12 | Peano Arithmetic | Homework 3 due in Lec #12 |
-| 13-14 | Self-Reference Lemma |  |
-| 15-16 | First Incompleteness Theorem | Homework 4 due in Lec #16 |
-| 17 | Interpretations |  |
-| 18 | Tarski's Theory of Truth | Homework 5 due |
-| 19 |  {{< br >}}{{< br >}} Gödel, Mechanism, and Mind {{< br >}}{{< br >}} Articles by Lucas and Benacerraf {{< br >}}{{< br >}}  |  |
-| 20-21 | Second Incompleteness Theorem | Homework 6 due in Lec #21 |
-| 22 | Introduction to Modal Logic |  |
-| 23-24 | Provability Logic | Homework 7 due in Lec #23 |
-| 25 | Defining Exponentiation | Homework 8 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Why Study Computability?
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+Key Computability Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Language of Arithmetic
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Church-Turing Thesis
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Nonstandard Models of Arithmetic
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Gödel Numbering
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Robinson's Arithmetic
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-10
+{{< tdclose >}}
+{{< tdopen >}}
+Coding Proofs
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+{{< tdopen >}}
+Peano Arithmetic
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due in Lec #12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+{{< tdopen >}}
+Self-Reference Lemma
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15-16
+{{< tdclose >}}
+{{< tdopen >}}
+First Incompleteness Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due in Lec #16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Interpretations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Tarski's Theory of Truth
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Gödel, Mechanism, and Mind
+
+Articles by Lucas and Benacerraf
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-21
+{{< tdclose >}}
+{{< tdopen >}}
+Second Incompleteness Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due in Lec #21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Modal Logic
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+Provability Logic
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due in Lec #23
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Defining Exponentiation
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
