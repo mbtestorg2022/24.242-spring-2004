@@ -6,6 +6,7 @@ description: 'This resource explains ''The Church-Turing Thesis''. It also expla
   the subject.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-242-logic-ii-spring-2004/489f7e42fb619645158d7c21a8fb83ad_chuh_trng_thesis.pdf
 file_type: application/pdf
+parent_uid: 797097cc-c3b9-3653-0f40-c0f8598b2654
 resourcetype: Document
 title: chuh_trng_thesis.pdf
 uid: 489f7e42-fb61-9645-158d-7c21a8fb83ad

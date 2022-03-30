@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-242-logic-ii-spring-2004/3df7e5d1e61a2ef0f58fab5235431adc_HW6SampleAnswers.pdf
 file_type: application/pdf
+parent_uid: 84b78226-819d-42f2-b120-d8ec37d24e17
 resourcetype: Document
 title: HW6SampleAnswers.pdf
 uid: 3df7e5d1-e61a-2ef0-f58f-ab5235431adc

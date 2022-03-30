@@ -4,6 +4,7 @@ description: This resource explains 'Godel's First Incompleteness Theorem' with 
   related collories and theorems. It also explains the Church's theorem.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-242-logic-ii-spring-2004/84bf60d16f0accc297f0c9f55fa756fa_1st_incompletens.pdf
 file_type: application/pdf
+parent_uid: 797097cc-c3b9-3653-0f40-c0f8598b2654
 resourcetype: Document
 title: 1st_incompletens.pdf
 uid: 84bf60d1-6f0a-ccc2-97f0-c9f55fa756fa
